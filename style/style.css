@@ -116,3 +116,51 @@ nav ul > li {
 }
 
 /* feature part end */
+
+/* experience part  */
+
+.experience {
+  display: flex;
+  width: 1440px;
+  margin: 0 auto;
+  justify-content: space-around;
+  margin-top: 130px;
+}
+
+.experience-lists {
+  display: grid;
+  grid-column: repeat(1, 1fr);
+  margin-right: 54px;
+}
+
+.experience-title {
+  border-left: 5px solid #ff900e;
+  padding: 15px;
+}
+
+.expericen-list {
+  margin-top: 20px;
+  padding: 20px 20px 1px;
+  border-radius: 8px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.experience-main-heading {
+}
+
+.list-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #131313;
+}
+
+.list-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #727272;
+}
+
+.experience-banner {
+  width: 700px;
+  height: 982px;
+}
