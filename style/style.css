@@ -164,3 +164,62 @@ nav ul > li {
   width: 700px;
   height: 982px;
 }
+
+/* experience-style end */
+
+/* some facts style start */
+
+.some-facts {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.fact-title {
+  margin-top: 130px;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.fact-description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #727272;
+}
+
+.fact-items {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 124px;
+}
+
+.fact-item {
+  border: 1px solid #ff900e;
+  border-radius: 5px;
+  padding: 30px;
+  text-align: center;
+}
+
+.fact-item h1 {
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.fact-item p {
+  font-size: 20px;
+  font-weight: 600;
+  color: #727272;
+}
+
+.our-sponspors {
+  margin-top: 130px;
+  text-align: center;
+}
+
+.sponspors {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 150px;
+}
