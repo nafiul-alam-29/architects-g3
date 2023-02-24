@@ -223,3 +223,18 @@ nav ul > li {
   justify-content: center;
   gap: 150px;
 }
+
+.footer {
+  text-align: center;
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.footer-description {
+  background-color: #fff4e7;
+  padding: 40px 100px;
+  align-items: center;
+  margin-top: 130px;
+  color: #424242;
+  border-radius: 5px;
+}
